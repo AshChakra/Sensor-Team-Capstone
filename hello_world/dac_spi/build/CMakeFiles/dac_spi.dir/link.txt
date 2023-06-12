@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/dac_spi.dir/test.c.o CMakeFiles/dac_spi.dir/orin_spi.c.o  -o dac_spi 
